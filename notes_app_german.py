@@ -341,7 +341,7 @@ def main():
 
                 continue
 
-        # User input is invalid if not n or l (case-insensitive) and not a valid integer
+        # User input is not n or l (case-insensitive) or cannot be converted to an integer
         except ValueError:
 
             time.sleep(2)
