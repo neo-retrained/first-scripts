@@ -3,4 +3,4 @@ This script is a personal exercise to build a notes app from the scratch. It doe
 It is based on user input. Users can perform various actions to modify lists directly from the console. The user prompts are in German.
 
 Author: Ignacio Martinez
-Last Updated: 2026-03-16
+Last Updated: 2026-03-19
