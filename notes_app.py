@@ -313,7 +313,7 @@ def main():
                                 print(
                                     "Ihre Eingabe liegt außerhalb den gültigen Bereich. Versuchen Sie es bitte noch einmal: ",
                                     end="")
-                                input_option = int(input())
+                                input_option = input()
 
                                 continue
 
