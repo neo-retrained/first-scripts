@@ -1,3 +1,10 @@
+"""
+A self-designed and self-developed script to practice Python by implementing a notes application. Features include adding, deleting, and saving notes and entries.
+Built from scratch without using pre-existing code or external frameworks.
+
+Author: Ignacio Martinez
+Last updated: 2026-03-22
+"""
 # Imported libraries
 
 # I used this library just as a small experiment to implement the 'time.sleep()' function in the script. It's not actually necessary, but it helps me get used to working with libraries.
