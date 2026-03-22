@@ -1,3 +1,11 @@
+"""
+An implementation of the Tic Tac Toe game, developed as an exercise for the Python online course.
+Coded from the ground up without using the course's sample solution.
+
+Author: Ignacio Martinez
+Last updated: 2026-03-22
+"""
+
 # Global variables
 
 field = ["1", "2", "3", "4", "5", "6", "7", "8", "9"]
