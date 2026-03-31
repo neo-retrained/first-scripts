@@ -141,7 +141,7 @@ def main():
 
                             main()
 
-                        # Deleting the new list
+                        # Deleting the selected list
                         elif int(input_delete_list) - 1 in range(len(all_lists_list)):
 
                             time.sleep(2)
